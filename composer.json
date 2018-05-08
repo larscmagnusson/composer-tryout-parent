@@ -1,0 +1,10 @@
+{
+    "name": "lmagnuss/parent",
+    "authors": [
+        {
+            "name": "Lars",
+            "email": "lars.c.magnusson@gmail.com"
+        }
+    ],
+    "require": {}
+}
